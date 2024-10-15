@@ -1,0 +1,13 @@
+title;SMILES
+Tofacitinib;C[C@@H]1CCN(C[C@@H]1N(C)c2ncnc3[nH]ccc23)C(=O)CC#N
+Ruxolitinib;N#CC[C@H](C1CCCC1)n2cc(cn2)c3ncnc4[nH]ccc34
+Oclacitinib;CNS(=O)(=O)C[C@@H]1CC[C@H](CC1)N(C)c2ncnc3[nH]ccc23
+Baricitinib;CCS(=O)(=O)N1CC(CC#N)(C1)n2cc(cn2)c3ncnc4[nH]ccc34
+Upadacitinib;CC[C@@H]1CN(C[C@@H]1c2cnc3cnc4[nH]ccc4n23)C(=O)NCC(F)(F)F
+Fedratinib;Cc1cnc(Nc2ccc(OCCN3CCCC3)cc2)nc1Nc4cccc(c4)S(=O)(=O)NC(C)(C)C
+Filgotinib;O=C(Nc1nc2cccc(c3ccc(CN4CCS(=O)(=O)CC4)cc3)n2n1)C5CC5
+Abrocitinib;CCCS(=O)(=O)N[C@@H]1C[C@@H](C1)N(C)c2ncnc3[nH]ccc23
+pacritinib;C(CN1CCCC1)Oc2ccc3Nc4nccc(n4)c5cccc(COC\C=C\COCc2c3)c5
+Ritlecitinib;C[C@H]1CC[C@H](CN1C(=O)C=C)Nc2ncnc3[nH]ccc23
+Momelotinib;O=C(NCC#N)c1ccc(cc1)c2ccnc(Nc3ccc(cc3)N4CCOCC4)n2
+PEFICITINIB;NC(=O)c1cnc2[nH]ccc2c1N[C@@H]3[C@@H]4CC5C[C@H]3C[C@](O)(C5)C4
